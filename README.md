@@ -1,15 +1,6 @@
-### Date created
-Include the date you created this project and README file.
-
-### Project Title
-Replace the Project Title
+### My first Repo
+This is a Repo that i created to familiarize myself on github
 
 ### Description
-Describe what your project is about and what it does
-
-### Files used
-Include the files used
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+I created a repository & navigated through on how to commit,branch,pull requests etc inoder to understand the process. it was an awesome experience
 
